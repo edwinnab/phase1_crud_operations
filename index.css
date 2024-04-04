@@ -1,0 +1,29 @@
+.navbar {
+    padding-inline: 10rem !important;
+}
+
+a {
+    color: orange !important;
+    font-size: larger;
+    font-weight: bolder;
+    margin-left: 3rem;
+}
+
+.btn {
+    background-color: orange !important;
+    color: white !important;
+    font-size: large !important;
+    font-weight: bolder !important;
+}
+
+.card {
+    width: 18rem !important;
+}
+
+#update {
+    background-color: aqua !important;
+}
+
+#delete {
+    background-color: red !important;
+}
